@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/matlabcontrol"/>
+	<classpathentry kind="lib" path="lib/misc/opencsv-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/misc/swt-debug.jar"/>
+	<classpathentry kind="lib" path="lib/misc/swt.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.5.0.jar"/>
+	<classpathentry kind="lib" path="lib/bluecove-2.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
